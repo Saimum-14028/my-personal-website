@@ -1,0 +1,76 @@
+body{
+    padding: 10px;
+    margin: 20px 50px;
+}
+
+header{
+    text-align: right; 
+    margin-right: 50px;
+}
+
+section{
+    height: 350px;
+}
+
+.button{
+    text-decoration: none;
+    margin: 5px;
+}
+
+.middle{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin: 20px 50px;
+    padding: 10px;
+}
+
+.one-third-width{
+    float: left;
+    width: 30%;
+    margin: 50px 20px;
+    text-align: justify;
+}
+
+.background{
+    background-image: url('images/Group_33094_1.png');
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.background-text{
+    text-align: center;
+    float: left;
+    width: 40%;
+    margin: 140px 50px;
+    padding: 10px;
+}
+
+.link{
+    text-decoration: none;
+    text-align: center;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+.color{
+    color: orange;
+}
+
+.work{
+    color: white;
+}
+
+.text-modifier{
+    font-size: 30px;
+}
